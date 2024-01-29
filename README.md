@@ -2,6 +2,8 @@
 
 Welcome to the Weather App, a simple and intuitive web application created using HTML, CSS, and JavaScript. 🌦️ This app provides real-time weather information using the OpenWeather API. Stay informed about the current weather conditions, temperature, and forecasts with a sleek and user-friendly interface.
 
+Live Link - https://hilarious-phoenix-09df1c.netlify.app/
+
 ## Features 🌟
 
 - **Real-time Weather Data:** Get the latest weather information instantly. 🕒
